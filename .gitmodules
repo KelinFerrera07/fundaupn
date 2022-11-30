@@ -6,3 +6,7 @@
 	path = l10n_hn_accounting
 	url = git@github.com:d2isolutions/l10n_hn_accounting.git
 	branch = 14.0
+[submodule "openeducat"]
+	path = openeducat
+	url = git@github.com:d2isolutions/openeducat.git
+	branch = 14.0
